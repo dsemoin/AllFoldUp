@@ -1,0 +1,18 @@
+#logo{
+    width: 50%;
+    height: 50%;
+    border-radius: 10%;
+
+}
+#packing{
+    text-align: center
+}
+#laundry{
+    text-align: center;
+}
+#closet{
+    text-align: center;
+}
+p{
+    font-size: 20px;
+}
